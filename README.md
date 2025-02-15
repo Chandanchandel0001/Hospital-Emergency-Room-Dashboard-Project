@@ -31,6 +31,11 @@ It enables data-driven decision-making to improve operational efficiency and pat
 📍 Insights: Peak busy hours, high wait times, referral trends, and patient satisfaction analysis.
 📍 Goal: Improve ER efficiency & patient experience.
 
+
+
+
+
+
 📌 Key Findings >>
 
 ✅ Average Wait Time: 35.3 minutes, indicating a need for better patient flow.
